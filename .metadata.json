@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ggcleveland",
+    "oncran": true
+  },
+  {
+    "package": "karel",
+    "oncran": true
+  }
+]
