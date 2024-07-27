@@ -5,6 +5,3 @@
 [submodule "ggcleveland"]
 	path = ggcleveland
 	url = https://github.com/mpru/ggcleveland
-[submodule "karel"]
-	path = karel
-	url = https://github.com/mpru/karel
